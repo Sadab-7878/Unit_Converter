@@ -1,1 +1,1 @@
-It is a app that convert kg to pounds
+It is a app that convert kg to pound
